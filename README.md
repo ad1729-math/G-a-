@@ -1,0 +1,2 @@
+# G-a-
+This is a beautiful number theoretical sequence, user Pruthviraj asked to prove some properties of this beautiful sum/sequence. Those were confirmed by mathematician Fedor Petrov and myself. I had found a formula for this sequence and thereby proving the properties. In this program I am using my formula to get the values of the sequence. Link to the post: https://mathoverflow.net/q/392871/156029
