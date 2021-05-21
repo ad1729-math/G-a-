@@ -57,9 +57,18 @@ def G(a):
     return z
 
 
-a=int(input('enter the number'))
-K=round(G(a))
-print(K)
+K=[]
+L=[]
+for k in range(1, 1000):
+    K.append(2*k)
+    s=round(G(2*k))
+    L.append(s)
+
+M=list(zip(K,L))
+print(M)
+
+
+
 
 
 
